@@ -6,7 +6,7 @@
 
 ### Introduction
 
-For this project, you will train an agent to navigate and collect ripe bananas in a large, square world full of dangerous bananas already gone bad.  
+Train an agent to navigate and collect ripe bananas in a large, square world full of dangerous bananas already gone bad.  
 
 ![Trained Agent][image1]
 
